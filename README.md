@@ -1,2 +1,2 @@
 # Portfolio
-Generalized Portfolio
+Generalized
